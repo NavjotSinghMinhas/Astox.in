@@ -3082,7 +3082,7 @@ img{
 	top:-1px;
 	color:#ffffff;
 	font-size:14px;
-	font-family: 'FontAwesome';
+	font-family: 'Font Awesome 5 Pro';
 }
 
 .links-widget .links li a:hover::before{
@@ -3114,7 +3114,7 @@ img{
 
 .main-footer .services-widget .widget-content .text li:before {
 	content: "\f00c";
-	font-family: FontAwesome;
+	font-family: "Font Awesome 5 Pro";
 	display: inline-block;
 	margin-left: -1.3em;
 	width: 1.3em;
